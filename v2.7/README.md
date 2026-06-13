@@ -25,11 +25,13 @@ Sistem başlangıçta bu mod ile açılır.
 
 ### 2.2. Kol Kontrol Modu (ARM_MODE)
 Bu modda manuel servo kontrolü sağlanır.
-* 1. Servo (Taban): D-Pad Sol/Sağ tuşları ile 25 derece ile 155 derece arasında hareket ettirilir.
-* 2. Servo (Omuz): D-Pad Yukarı/Aşağı tuşları ile 85 derece ile 160 derece arasında kontrol edilir.
-* 3. Servo (Dirsek): Üçgen ve Çarpı tuşları ile 40 derece ile 80 derece arasında hassas hareket ettirilir.
-* 4. Servo (Pençe): Kare ve Daire tuşları ile 70 derece ile 120 derece arasında açılıp kapatılır.
-* Toplama ve Çıkış: SELECT butonuna 1.2 saniye basıldığında kol asenkron olarak güvenli (90 derece) konumuna döner. START butonuna kısa basıldığında DRIVE_MODE moduna geri dönülür.
+ 
+ 1. Servo (Taban): D-Pad Sol/Sağ tuşları ile 25 derece ile 155 derece arasında hareket ettirilir.
+ 2. Servo (Omuz): D-Pad Yukarı/Aşağı tuşları ile 85 derece ile 160 derece arasında kontrol edilir.
+ 3. Servo (Dirsek): Üçgen ve Çarpı tuşları ile 40 derece ile 80 derece arasında hassas hareket ettirilir.
+ 4. Servo (Pençe): Kare ve Daire tuşları ile 70 derece ile 120 derece arasında açılıp kapatılır.
+
+ * Toplama ve Çıkış: SELECT butonuna 1.2 saniye basıldığında kol asenkron olarak güvenli (90 derece) konumuna döner. START butonuna kısa basıldığında DRIVE_MODE moduna geri dönülür.
 
 ---
 **Geliştirici:** Abdulkadir GÜNGÖR (a.kadir.gungor.86@gmail.com)
