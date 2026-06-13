@@ -1,6 +1,6 @@
 # Nur-o-link v2.7
 
-![Nur-o-link v2.7 Projesi](v2.7/images/nurolink-v2_7.png)
+![Nur-o-link v2.7 Projesi](images/nurolink-v2_7.png)
 
 Nur-o-link v2.7, ESP32 mikrodenetleyici platformu üzerine inşa edilmiş, 7 farklı vites kademesiyle sürüş kabiliyeti ve 4 eklemli (4-DOF) robotik kol kontrolü sunan gelişmiş bir sistemdir. Sistem, Bluetooth üzerinden Dabble mobil uygulaması ile haberleşir.
 
@@ -12,9 +12,9 @@ Nur-o-link v2.7, ESP32 mikrodenetleyici platformu üzerine inşa edilmiş, 7 far
 
 ## Çalışma Modları
 
-![Nur-o-link v2.7 Kumanda](v2.7/images/nurolink-v2_7-kumanda.jpg)
+![Nur-o-link v2.7 Kumanda](images/nurolink-v2_7-kumanda.jpg)
 
-[Detaylı Kullanım Kılavuzu](v2.7/kumanda/nur-o-link_v2_7_kumanda.pdf)
+[Detaylı Kullanım Kılavuzu](kumanda/nur-o-link_v2_7_kumanda.pdf)
 
 ### 1. Sürüş Modu (DRIVE_MODE)
 Sistem başlangıçta bu mod ile açılır.
