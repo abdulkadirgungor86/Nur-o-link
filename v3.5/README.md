@@ -1,6 +1,6 @@
 # Nur-o-link v3.5
 
-![Nur-o-link v3.5 Projesi](v3.5/images/nurolink-v3_5.png)
+![Nur-o-link v3.5 Projesi](images/nurolink-v3_5.png)
 
 Nur-o-link v3.5, ESP32 mikrodenetleyici platformu üzerine inşa edilmiş, 7 farklı vites kademesiyle sürüş kabiliyeti ve 4 eklemli (4-DOF) hassas robotik kol kontrolü sunan gelişmiş bir sistemdir. Sistem, Wi-Fi üzerinden RemoteXY mobil uygulaması ile haberleşir.
 
@@ -17,11 +17,11 @@ Nur-o-link v3.5, ESP32 mikrodenetleyici platformu üzerine inşa edilmiş, 7 far
 
 ## Çalışma Modları
 
-[Detaylı Kullanım Kılavuzu](v3.5/kumanda/nur-o-link_v3_5_kumanda.pdf)
+[Detaylı Kullanım Kılavuzu](kumanda/nur-o-link_v3_5_kumanda.pdf)
 
 ### 1. Sürüş Modu (DRIVE_MODE)
 
-![Nur-o-link v3.5 Kumanda-1 (DRIVE_MODE)](v3.5/images/nurolink-v3_5-kumanda-1.jpeg)
+![Nur-o-link v3.5 Kumanda-1 (DRIVE_MODE)](images/nurolink-v3_5-kumanda-1.jpeg)
 
 Sistem başlangıçta bu mod ile açılır.
 * **Hareket Kontrolü:** D-Pad tuşları ile yönlendirme sağlanır. İleri sürüş esnasında dinamik engel koruma sistemi (VL53L1X) 500mm mesafe sınırında otomatik frenleme yapar.
@@ -31,7 +31,7 @@ Sistem başlangıçta bu mod ile açılır.
 
 ### 2. Kol Kontrol Modu (ARM_MODE)
 
-![Nur-o-link v3.5 Kumanda-2 (ARM_MODE)](v3.5/images/nurolink-v3_5-kumanda-2.jpeg)
+![Nur-o-link v3.5 Kumanda-2 (ARM_MODE)](images/nurolink-v3_5-kumanda-2.jpeg)
 
 Bu modda manuel servo kontrolü sağlanır.
 * **1. Servo (Taban):** D-Pad Sol/Sağ tuşları ile 25° - 155° aralığında hareket ettirilir.
